@@ -144,11 +144,11 @@ VO: According to reporting on the footage, after the shots Officer Ables can be 
 
 `[BWC]` Post-incident only if no graphic content is visible. Otherwise the diagram.
 
-VO: Task force members move in, kick the gun away and handcuff Campbell. Within a minute, patrol officers arrive and start CPR and first aid. Paramedics are on scene in about five minutes. At around 1:59 p.m., Eddie Campbell is pronounced dead.
+VO: Task force members move in, push the gun away and handcuff Campbell. Within a minute, patrol officers arrive and start emergency first aid. Paramedics are on scene in about five minutes. At around 1:59 p.m., Eddie Campbell is pronounced dead.
 
 `[STILL]` Kylo, procession photo (PPB social media, credited).
 
-VO: Kylo is rushed to one animal hospital, then a second. Veterinarians recommend euthanasia. That afternoon, officers line up outside to salute him, and his body, draped in an American flag, is escorted to the Oregon Humane Society. It's the first Portland police dog killed in the line of duty since 2014. It was his last shift.
+VO: Kylo is rushed to one animal hospital, then a second. Veterinarians recommend euthanasia. Officers line up to salute him, and his body, draped in an American flag, is escorted to the Oregon Humane Society. According to local news reports, he is the first Portland police dog killed in the line of duty since 2014. It was his last shift.
 
 VO: In the days that follow, the bureau confirms what many had already guessed. Kylo was hit by police gunfire.
 
